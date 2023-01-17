@@ -4037,7 +4037,7 @@ textarea.form-control-lg {
 }
 
 .navbar-nav-scroll {
-  max-height: var(--bs-scroll-height, 75vh);
+  max-height: var(--bs-scroll-height, auto);
   overflow-y: auto;
 }
 
